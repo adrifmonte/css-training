@@ -19,4 +19,9 @@ Topics:
 - Media queries, Breakpoints & Responsiveness ([Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) | [StackOverflow](http://stackoverflow.com/documentation/css/317/media-queries#t=201703220948213087013))
 - [Comments](http://stackoverflow.com/documentation/css/1625/comments#t=201703220949169109538)
 - [Debugging & Troubleshooting](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS)
+- Best practices
+
+- DRY & Preprocessors
+-- SASS
+-- Lints
 
