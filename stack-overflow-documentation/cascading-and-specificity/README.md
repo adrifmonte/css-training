@@ -1,7 +1,6 @@
-> <strong>This content was ported over from Stack Overflow Documentation, [now retired](https://meta.stackoverflow.com/q/356294/1064325). To access the source and attribution please access the Docs archive and reference the corresponding topic ID.</strong>
-
 # Cascading and Specificity
-<sub>(#t=201709262047354448464)<sub>
+
+> <strong>This content was ported over from Stack Overflow Documentation, [now retired](https://meta.stackoverflow.com/q/356294/1064325). To access the source and attribution please access the [Docs archive](https://archive.org/details/documentation-dump.7z) and reference topic ID: ##201709262047354448464##</strong>
 
 - [Calculating Selector Specificity](#calculating-selector-specificity)
 - [The !important declaration](#the-important-declaration)
