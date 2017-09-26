@@ -21,7 +21,7 @@
 
 * Media queries, Breakpoints & Responsiveness ([Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/317/media-queries#t=201703220948213087013))
 
-* Comments ([Stack Overflow Documentation](http://stackoverflow.com/documentation/css/1625/comments#t=201703220949169109538))
+* Comments ([Stack Overflow Documentation](/stack-overflow-documentation/comments#comments))
 
 * Debugging & Troubleshooting ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS))
 
