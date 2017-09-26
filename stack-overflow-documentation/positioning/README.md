@@ -12,6 +12,7 @@
 ## Static
 <sub>[top](#layout-control)</sub>
 <blockquote>
+
 The default position of an element is `static`. To quote [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position#values):
 > This keyword lets the element use the normal behavior, that is it is laid out in its current position in the flow.  The top, right, bottom, left and z-index properties do not apply.
 
@@ -23,6 +24,7 @@ The default position of an element is `static`. To quote [MDN](https://developer
 ## Relative
 <sub>[top](#layout-control)</sub>
 <blockquote>
+
 Relative positioning moves the element in relation to where it would have been in *normal flow* .Offset properties:
 
  1. top
@@ -43,6 +45,7 @@ This code will move the box containing element with attribute class="relpos" 20p
 ## Absolute
 <sub>[top](#layout-control)</sub>
 <blockquote>
+
 When absolute positioning is used the box of the desired element is taken out of the *Normal Flow* and it no longer affects the position of the other elements on the page. Offset properties:
 
  1. top
@@ -64,6 +67,7 @@ This code will move the box containing element with attribute `class="abspos"` d
 ## Fixed
 <sub>[top](#layout-control)</sub>
 <blockquote>
+
 Defining position as fixed we can remove an element from the document flow and set its position relatively to the browser window. One obvious use is when we want something to be visible when we scroll to the bottom of a long page.
 
     #stickyDiv {
@@ -76,6 +80,7 @@ Defining position as fixed we can remove an element from the document flow and s
 ## Z-index
 <sub>[top](#layout-control)</sub>
 <blockquote>
+
 To change the default [stack order](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context) positioned elements (`position` property set to `relative`, `absolute` or `fixed`), use the `z-index` property.
 
 The higher the z-index, the higher up in the stacking context (on the z-axis) it is placed.

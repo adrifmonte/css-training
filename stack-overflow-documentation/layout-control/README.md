@@ -12,6 +12,7 @@
 ## The display property
 <sub>[top](#layout-control)</sub>
 <blockquote>
+
 The `display` CSS property is fundamental for controlling the layout and flow of an HTML document. Most elements have a default `display` value of either `block` or `inline` (though some elements have other default values).
 
 # Inline

@@ -11,6 +11,7 @@
 ## Calculating Selector Specificity
 <sub>[top](#cascading-and-specificity)</sub>
 <blockquote>
+
 Each individual CSS Selector has its own specificity value. Every selector in a sequence increases the sequence's overall specificity. Selectors fall into one of three different specificity groups: *A*, *B* and *c*. When multiple selector sequences select a given element, the browser uses the styles applied by the sequence with the highest overall specificity.
 
 | Group  | Comprised of                             | Examples   |
@@ -136,6 +137,7 @@ You can calculate the specificity of your selector [here][2]
 ## The !important declaration
 <sub>[top](#cascading-and-specificity)</sub>
 <blockquote>
+
 The `!important` declaration is used to override the usual specificity in a style sheet by giving a higher priority to a rule. Its usage is: `property : value !important;`
 
 <!-- language: lang-css -->
@@ -169,6 +171,7 @@ See also:
 ## Cascading
 <sub>[top](#cascading-and-specificity)</sub>
 <blockquote>
+
 Cascading and specificity are used together to determine the final value of a CSS styling property. They also define the mechanisms for resolving conflicts in CSS rule sets.
 
 # CSS Loading order
@@ -249,6 +252,7 @@ After applying the specificity rules, there's still a conflict between blue and 
 ## More complex specificity example
 <sub>[top](#cascading-and-specificity)</sub>
 <blockquote>
+
 <!-- language: lang-css -->
     div {
         font-size: 7px;
