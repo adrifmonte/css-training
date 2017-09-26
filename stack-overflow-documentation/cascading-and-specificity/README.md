@@ -1,10 +1,15 @@
-> This content was ported over from Stack Overflow Documentation, [now retired](https://meta.stackoverflow.com/q/356294/1064325). To access the source and attribution please access the Docs archive and reference the corresponding topic ID.
+> <strong>This content was ported over from Stack Overflow Documentation, [now retired](https://meta.stackoverflow.com/q/356294/1064325). To access the source and attribution please access the Docs archive and reference the corresponding topic ID.</strong>
 
 # Cascading and Specificity
-<sub>Topic ID: 201709262047354448464<sub>
+<sub>(#t=201709262047354448464)<sub>
+
+- [Calculating Selector Specificity](#calculating-selector-specificity)
+- [The !important declaration](#the-important-declaration)
+- [Cascading](#cascading)
+- [More complex specificity example](#more-complex-specificity-example)
 
 ## Calculating Selector Specificity
-
+<sub>[top](#cascading-and-specificity)</sub>
 <blockquote>
 Each individual CSS Selector has its own specificity value. Every selector in a sequence increases the sequence's overall specificity. Selectors fall into one of three different specificity groups: *A*, *B* and *c*. When multiple selector sequences select a given element, the browser uses the styles applied by the sequence with the highest overall specificity.
 
@@ -129,7 +134,7 @@ You can calculate the specificity of your selector [here][2]
 </blockquote>
 
 ## The !important declaration
-
+<sub>[top](#cascading-and-specificity)</sub>
 <blockquote>
 The `!important` declaration is used to override the usual specificity in a style sheet by giving a higher priority to a rule. Its usage is: `property : value !important;`
 
@@ -162,7 +167,7 @@ See also:
 </blockquote>
 
 ## Cascading
-
+<sub>[top](#cascading-and-specificity)</sub>
 <blockquote>
 Cascading and specificity are used together to determine the final value of a CSS styling property. They also define the mechanisms for resolving conflicts in CSS rule sets.
 
@@ -242,7 +247,7 @@ After applying the specificity rules, there's still a conflict between blue and 
 </blockquote>
 
 ## More complex specificity example
-
+<sub>[top](#cascading-and-specificity)</sub>
 <blockquote>
 <!-- language: lang-css -->
     div {
