@@ -4,9 +4,10 @@
 > <strong>This content was ported over from Stack Overflow Documentation, [now retired](https://meta.stackoverflow.com/q/356294/1064325). To access the source and attribution please access the [Docs archive](https://archive.org/details/documentation-dump.7z) and reference topic ID: ##201709262218296273468##</strong>
 
 - [The display property](#the-display-property)
-- [The !important declaration](#the-important-declaration)
-- [Cascading](#cascading)
-- [More complex specificity example](#more-complex-specificity-example)
+  - [Inline](#inline)
+  - [Block](#block)
+  - [Inline Block](#inline-block)
+  - [None](#none)
 
 ## The display property
 <sub>[top](#layout-control)</sub>
