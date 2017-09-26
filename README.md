@@ -6,10 +6,10 @@
   * Compatibility check tool ([Can I use?](http://caniuse.com/))
 
 * Selectors ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors))
-  * Basic selectors ([Mozilla]](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors))
-  * Attribute selectors ([Mozilla]](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors))
-  * Pseudo-classes & pseudo-elements ([Mozilla]](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements))
-  * Combinators & Multiple selectors ([Mozilla]](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors))
+  * Basic selectors ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors))
+  * Attribute selectors ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors))
+  * Pseudo-classes & pseudo-elements ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements))
+  * Combinators & Multiple selectors ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors))
 
 * Conflicts, Cascading order & Specificity ([Stack Overflow Documentation](/stack-overflow-documentation/cascading-and-specificity#cascading-and-specificity)
 
