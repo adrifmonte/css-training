@@ -1,34 +1,33 @@
 # Guide to become a digital web stylist
 
 * Helpful miscelaneous
-  * [Sandbox tool](https://jsfiddle.net/)
-  * [Image filler](http://lorempixel.com/)
-  * [Compatibility check tool](http://caniuse.com/)
+  * Sandbox tool ([JS Fiddle](https://jsfiddle.net/))
+  * Image filler ([Lorem Pixel](http://lorempixel.com/))
+  * Compatibility check tool ([Can I use?](http://caniuse.com/))
 
-* [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
-  * [Basic selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
-  * [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
-  * [Pseudo-classes & pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
-  * [Combinators & Multiple selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
+* Selectors ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors))
+  * Basic selectors ([Mozilla]](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors))
+  * Attribute selectors ([Mozilla]](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors))
+  * Pseudo-classes & pseudo-elements ([Mozilla]](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements))
+  * Combinators & Multiple selectors ([Mozilla]](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors))
 
-* [Conflicts, Cascading order & Specificity](/stack-overflow-documentation/cascading-and-specificity#cascading-and-specificity)
+* Conflicts, Cascading order & Specificity ([Stack Overflow Documentation](/stack-overflow-documentation/cascading-and-specificity#cascading-and-specificity)
 
-* [Attributes](https://www.w3.org/TR/CSS21/propidx.html)
-  * Display ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes) | [StackOverflow](http://stackoverflow.com/documentation/css/1473/layout-control#t=20170322094902498662))
-  * Position ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) | [StackOverflow](http://stackoverflow.com/documentation/css/935/positioning#t=201703220948139746687))
-  * [Float](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
-  * Units ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units) | [StackOverflow](http://stackoverflow.com/documentation/css/864/length-units#t=20170322094810174661))
+* Attributes ([w3](https://www.w3.org/TR/CSS21/propidx.html))
+  * Display ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/1473/layout-control#t=20170322094902498662))
+  * Position ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/935/positioning#t=201703220948139746687))
+  * Float ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats))
+  * Units ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/864/length-units#t=20170322094810174661))
 
-* Media queries, Breakpoints & Responsiveness ([Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) | [StackOverflow](http://stackoverflow.com/documentation/css/317/media-queries#t=201703220948213087013))
+* Media queries, Breakpoints & Responsiveness ([Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/317/media-queries#t=201703220948213087013))
 
-* [Comments](http://stackoverflow.com/documentation/css/1625/comments#t=201703220949169109538)
+* Comments ([Stack Overflow Documentation](http://stackoverflow.com/documentation/css/1625/comments#t=201703220949169109538))
 
-* [Debugging & Troubleshooting](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS)
+* Debugging & Troubleshooting ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS))
 
-* Best practices
+* Preprocessors ([Sass](http://sass-lang.com/documentation/) | [Less](http://lesscss.org/) | [Stylus](http://stylus-lang.com/))
+  * DRY - Don't Repeat Yourself
 
-* DRY & Preprocessors
-  * [SASS](http://sass-lang.com/documentation/)
-  * Lints
+* Lints ([Sass Lint](https://github.com/sasstools/sass-lint) | [Style Lint](https://github.com/stylelint/stylelint) | [Less Hint](https://github.com/lesshint/lesshint) | (Stylint)[https://github.com/SimenB/stylint])
 
-* Contribution
+* Tooling ([PostCSS](http://postcss.org/) | [Webpack](https://webpack.github.io/))
