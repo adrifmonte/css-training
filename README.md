@@ -13,8 +13,8 @@
 
 * Conflicts, Cascading order & Specificity ([Stack Overflow Documentation](/stack-overflow-documentation/cascading-and-specificity#cascading-and-specificity))
 
-* Main attributes ([w3](https://www.w3.org/TR/CSS21/propidx.html))
-  * Display ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/1473/layout-control#t=20170322094902498662))
+* Attributes ([w3](https://www.w3.org/TR/CSS21/propidx.html))
+  * Display ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes) | [Stack Overflow Documentation](/stack-overflow-documentation/layout-control#layout-control))
   * Position ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/935/positioning#t=201703220948139746687))
   * Float ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats))
   * Units ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/864/length-units#t=20170322094810174661))
