@@ -1,4 +1,4 @@
-# Guide to become a digital web stylist
+# Canonical Learning Resources
 
 * Helpful miscelaneous
   * Sandbox tool ([JS Fiddle](https://jsfiddle.net/))
@@ -13,7 +13,7 @@
 
 * Conflicts, Cascading order & Specificity ([Stack Overflow Documentation](/stack-overflow-documentation/cascading-and-specificity#cascading-and-specificity))
 
-* Attributes ([w3](https://www.w3.org/TR/CSS21/propidx.html))
+* Main attributes ([w3](https://www.w3.org/TR/CSS21/propidx.html))
   * Display ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/1473/layout-control#t=20170322094902498662))
   * Position ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/935/positioning#t=201703220948139746687))
   * Float ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats))
@@ -31,3 +31,12 @@
 * Lints ([Sass Lint](https://github.com/sasstools/sass-lint) | [Style Lint](https://github.com/stylelint/stylelint) | [Less Hint](https://github.com/lesshint/lesshint) | [Stylint](https://github.com/SimenB/stylint))
 
 * Tooling ([PostCSS](http://postcss.org/) | [Webpack](https://webpack.github.io/))
+
+* Advanced topics
+  * CSS3
+  * CSS4
+  * Fonts
+  * Transitions
+  * Animations
+    * GPU-bound
+  * Flexbox
