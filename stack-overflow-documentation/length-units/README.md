@@ -7,7 +7,7 @@
 - [Creating scalable elements using rems and ems](#creating-scalable-elements-using-rems-and-ems)
 - [vmin and vmax](#vmin-and-vmax)
 - [vh and vw](#vh-and-vw)
-- [using percent %](#using-percent-)
+- [Using percent %](#using-percent-)
 - [List of Length Units](#list-of-length-units)
 
 ## Font size with rem
@@ -140,7 +140,7 @@ CSS3 introduced two units for representing size.
 Above, the size for the div takes up 20% of the width and height of the viewport
 </blockquote>
 
-## using percent %
+## Using percent %
 <sub>[top](#length-units)</sub>
 <blockquote>
 
@@ -190,22 +190,15 @@ Its size depends on its parent container.
 
 **OUTPUT**
 
-[![enter image description here][1]][1]
+[![enter image description here][2]][2]
 
 
-  [1]: http://i.stack.imgur.com/t6pPl.png
+  [2]: http://i.stack.imgur.com/t6pPl.png
 </blockquote>
 
 ## List of Length Units
 <sub>[top](#length-units)</sub>
 <blockquote>
-
-| Group  | Comprised of                             | Examples   |
-| ------ | ---------------------------------------- | ---------- |
-| *A*    | id selectors                             | `#foo`     |
-| *B*    | class selectors<br> attribute selectors<br> pseudo-classes | `.bar`<br> `[title]`, `[colspan="2"]`<br> `:hover`, `:nth-child(2)` |
-| *c*    | type selectors<br> pseudo-elements       | `div`, `li`<br> `::before`, `::first-letter` |
-
 
 | Unit | Description |
 | ---- | ----------- |
