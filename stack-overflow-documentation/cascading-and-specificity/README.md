@@ -295,3 +295,5 @@ background-color:
 color:
 >! `color: red;`. The color is set in both the `div` and `.mystyle .myotherstyle` rule sets. The latter has the higher specificity of (0, 2, 0) and "wins".
 </blockquote>
+
+<sub>[top](#cascading-and-specificity)</sub>
