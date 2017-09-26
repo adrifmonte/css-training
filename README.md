@@ -17,7 +17,7 @@
   * Display ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model#Types_of_CSS_boxes) | [Stack Overflow Documentation](/stack-overflow-documentation/layout-control#layout-control))
   * Position ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) | [Stack Overflow Documentation](/stack-overflow-documentation/positioning#positioning))
   * Float ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats))
-  * Units ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/864/length-units#t=20170322094810174661))
+  * Units ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units) | [Stack Overflow Documentation](/stack-overflow-documentation/length-units#length-units))
 
 * Media queries, Breakpoints & Responsiveness ([Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/317/media-queries#t=201703220948213087013))
 
