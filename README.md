@@ -19,7 +19,7 @@
   * Float ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats))
   * Units ([Mozilla](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units) | [Stack Overflow Documentation](/stack-overflow-documentation/length-units#length-units))
 
-* Media queries, Breakpoints & Responsiveness ([Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) | [Stack Overflow Documentation](http://stackoverflow.com/documentation/css/317/media-queries#t=201703220948213087013))
+* Media queries, Breakpoints & Responsiveness ([Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) | [Stack Overflow Documentation](/stack-overflow-documentation/media-queries#media-queries))
 
 * Comments ([Stack Overflow Documentation](/stack-overflow-documentation/comments#comments))
 
@@ -33,10 +33,10 @@
 * Tooling ([PostCSS](http://postcss.org/) | [Webpack](https://webpack.github.io/))
 
 * Advanced topics
+  * Methodologies
+  * CSS2.1 in Depth
   * CSS3
   * CSS4
-  * Fonts
-  * Transitions
-  * Animations
-    * GPU-bound
   * Flexbox
+  * Animations
+  * GPU-bound rendering
