@@ -1,5 +1,5 @@
 # Cascading and Specificity
-<sub>[back](/#guide-to-become-a-digital-web-stylist)</sub>
+<sub>[back](../../#guide-to-become-a-digital-web-stylist)</sub>
 
 > <strong>This content was ported over from Stack Overflow Documentation, [now retired](https://meta.stackoverflow.com/q/356294/1064325). To access the source and attribution please access the [Docs archive](https://archive.org/details/documentation-dump.7z) and reference topic ID: ##201709262047354448464##</strong>
 
