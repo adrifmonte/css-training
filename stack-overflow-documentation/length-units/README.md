@@ -7,7 +7,7 @@
 - [Creating scalable elements using rems and ems](#creating-scalable-elements-using-rems-and-ems)
 - [vmin and vmax](#vmin-and-vmax)
 - [vh and vw](#vh-and-vw)
-- [using percent %](#using-percent)
+- [using percent %](#using-percent-)
 - [List of Length Units](#list-of-length-units)
 
 ## Font size with rem
